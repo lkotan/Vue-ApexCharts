@@ -1,0 +1,29 @@
+{
+  "personnel": [
+    {
+      "id": 1,
+      "name": "Lütfi",
+      "appointmentCount": 18
+    },
+    {
+      "id": 2,
+      "name": "Fatma",
+      "appointmentCount": 9
+    },
+    {
+      "id": 3,
+      "name": "Kerem",
+      "appointmentCount": 16
+    },
+    {
+      "id": 4,
+      "name": "Şilan",
+      "appointmentCount": 24
+    },
+    {
+      "id": 5,
+      "name": "Hasan",
+      "appointmentCount": 21
+    }
+  ]
+}
